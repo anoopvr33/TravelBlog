@@ -1,0 +1,9 @@
+.custom-btn {
+  width: 150px;
+  background-color: rgb(242, 221, 36);
+  border: none;
+  border-radius: 20px;
+  padding: 10px;
+  font-weight: 700;
+  /* margin-top: 30px; */
+}
